@@ -1,0 +1,1 @@
+const List <String> pozycje = ["Atakujący", "Libero", "Przyjmujący", "Rozgrywający", "Środkowy", "Trener"];

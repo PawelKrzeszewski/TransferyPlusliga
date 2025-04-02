@@ -1,0 +1,1 @@
+const List <String> statusy = ["Potwierdzone", "Prawdopodobne", "Plotka", "Odchodzi", "Błędne"];
